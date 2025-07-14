@@ -6,4 +6,5 @@ class Solution(object):
         :rtype: int
         """
         while val in nums:
-            nums.pop(nums.index(val))
+            i = nums.index(val)
+            nums.pop(i)
