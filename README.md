@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AndreCarneiro00/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
