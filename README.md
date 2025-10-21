@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
