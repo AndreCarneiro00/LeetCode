@@ -9,17 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AndreCarneiro00/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AndreCarneiro00/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AndreCarneiro00/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
