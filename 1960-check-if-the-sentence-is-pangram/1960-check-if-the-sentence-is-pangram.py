@@ -4,9 +4,4 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        n_available_letters = 26
-        check = set()
-        for letter in sentence:
-            check.add(letter)
-        
-        return len(check) == 26
+        return len(set(sentence)) == 26
