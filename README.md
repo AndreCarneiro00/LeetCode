@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AndreCarneiro00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AndreCarneiro00/LeetCode/tree/master/0383-ransom-note) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AndreCarneiro00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AndreCarneiro00/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/AndreCarneiro00/LeetCode/tree/master/0383-ransom-note) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AndreCarneiro00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
