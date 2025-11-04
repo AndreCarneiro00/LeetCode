@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AndreCarneiro00/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AndreCarneiro00/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0908-middle-of-the-linked-list](https://github.com/AndreCarneiro00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AndreCarneiro00/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/AndreCarneiro00/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AndreCarneiro00/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/AndreCarneiro00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
