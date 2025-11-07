@@ -6,11 +6,7 @@ class Solution(object):
         """
         stack = []
         for char in s:
-            if not stack:
-                stack.append(char)
-                continue
-            top = stack[-1]
-            if char == top:
+            if stack and char == stack[-1]:
                 stack.pop()
             else:
                 stack.append(char)
