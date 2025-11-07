@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AndreCarneiro00/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/AndreCarneiro00/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/AndreCarneiro00/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/AndreCarneiro00/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AndreCarneiro00/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String Matching
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AndreCarneiro00/LeetCode/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
