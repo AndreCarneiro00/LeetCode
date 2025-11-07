@@ -5,17 +5,16 @@ class Solution(object):
         :rtype: bool
         """
         stack = []
-        matching = {"(": ")", "[": "]", "{": "}"}
-        
-        for c in s:
-            if c in matching: # if c is an opening bracket
-                stack.append(c)
+        match = {"(": ")", "{": "}", "[": "]"}
+        for char in s:
+            if not stack:
+                stack.append(char)
+                continue
+
+            top = stack[-1]
+            if match.get(top) == char:
+                stack.pop()
             else:
-                if not stack:
-                    return False
+                stack.append(char)
                 
-                previous_opening = stack.pop()
-                if matching[previous_opening] != c:
-                    return False
- 
-        return not stack
+        return len(stack) == 0
