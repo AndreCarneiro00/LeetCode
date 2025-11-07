@@ -4,24 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        if (s.count("{") != s.count("}")) or (s.count("[") != s.count("]")) or (s.count("(") != s.count(")")):
-            return False
-
         stack = []
-        map_open = {"(": ")", "{": "}", "[": "]"}
-        map_close = {")": "(", "}": "{", "]": "["}
-        for i, c in enumerate(s):
-            if map_open.get(c, False):
-                # Open parentheses
-                stack.insert(0, c)
+        match = {"(": ")", "{": "}", "[": "]"}
+        for char in s:
+            if not stack:
+                stack.append(char)
                 continue
-            else:
-                # Close parentheses
-                if not stack:
-                    return False
-                if map_close.get(c, None) == stack[0]:
-                    stack.remove(map_close[c])
-                else:
-                    return False
 
-        return not bool(stack)
+            top = stack[-1]
+            print(top, char)
+            if match.get(top) == char:
+                stack.pop()
+            else:
+                stack.append(char)
+        print(stack)
+        return len(stack) == 0
