@@ -12,10 +12,9 @@ class Solution(object):
                 continue
 
             top = stack[-1]
-            print(top, char)
             if match.get(top) == char:
                 stack.pop()
             else:
                 stack.append(char)
-        print(stack)
+                
         return len(stack) == 0
