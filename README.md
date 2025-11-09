@@ -111,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/AndreCarneiro00/LeetCode/tree/master/0874-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
