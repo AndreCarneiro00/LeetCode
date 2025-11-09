@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
+| [0346-moving-average-from-data-stream](https://github.com/AndreCarneiro00/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [1098-largest-unique-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AndreCarneiro00/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/AndreCarneiro00/LeetCode/tree/master/1391-counting-elements) |
@@ -114,13 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/AndreCarneiro00/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/AndreCarneiro00/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/AndreCarneiro00/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/AndreCarneiro00/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
