@@ -9,12 +9,16 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if not head or not head.next:
+        if not head:
             return head
         
-        new_head = self.reverseList(head.next)
+        prev = None
+        curr = head
+        while curr:
+            next_node = curr.next
+            curr.next = prev
 
-        head.next.next = head
-        head.next = None
-
-        return new_head
+            prev = curr
+            curr = next_node
+        
+        return prev
