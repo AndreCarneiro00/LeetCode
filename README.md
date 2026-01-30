@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/AndreCarneiro00/LeetCode/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2540-minimum-common-value](https://github.com/AndreCarneiro00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AndreCarneiro00/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/AndreCarneiro00/LeetCode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AndreCarneiro00/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/AndreCarneiro00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AndreCarneiro00/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/AndreCarneiro00/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AndreCarneiro00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/AndreCarneiro00/LeetCode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AndreCarneiro00/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/AndreCarneiro00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
