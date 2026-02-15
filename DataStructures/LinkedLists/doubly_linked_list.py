@@ -15,15 +15,31 @@ class DoublyLinkedList:
             node = Node(val)
             if not self.head:
                 self.head = node
-                self.tail = node
             else:
                 node.prev = prev
-                self.tail = node
                 prev.next = node
 
+            self.tail = node
             prev = node
+
+    def append(self, val):
+        node = Node(val)
+        if self.head is None:
+            self.head = node
+            self.tail = node
+            return
+
+        node.prev = self.tail
+        self.tail.next = node
+
+        curr = self.tail
+        while curr.next:
+            curr = curr.next
+            self.tail = curr
 
 
 if __name__ == "__main__":
     linked_list = DoublyLinkedList([1, 2, 3])
+    print("debug")
+    linked_list.append(7)
     print("debug")
