@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AndreCarneiro00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AndreCarneiro00/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AndreCarneiro00/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AndreCarneiro00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AndreCarneiro00/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AndreCarneiro00/LeetCode/tree/master/0383-ransom-note) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AndreCarneiro00/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AndreCarneiro00/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AndreCarneiro00/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AndreCarneiro00/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AndreCarneiro00/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/AndreCarneiro00/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
