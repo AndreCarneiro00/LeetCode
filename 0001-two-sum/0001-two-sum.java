@@ -1,10 +1,18 @@
+import java.util.Map;
+import java.util.HashMap;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[] {i, j};
-                }
+        Map<Integer, Integer> mapper = new HashMap<Integer, Integer>();
+        int numsLen = nums.length;
+        for (int i = 0; i < numsLen; i++) {
+            mapper.put(nums[i], i);
+        }
+        for (int i = 0; i < numsLen; i++) {
+            int complement = target - nums[i];
+            if (mapper.containsKey(complement)
+            && mapper.get(complement) != i) {
+                return new int[] {i, mapper.get(target - nums[i])};
             }
         }
         return new int[] {};
