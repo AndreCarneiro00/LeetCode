@@ -10,7 +10,6 @@ class Solution {
         while (right < nums.length - 1) {
             curr = curr - nums[left] + nums[right + 1];
             answer = Math.max(answer, curr);
-            System.out.println(curr);
             left += 1;
             right += 1;
         }
