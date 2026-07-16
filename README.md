@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AndreCarneiro00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/0268-missing-number) |
 | [0346-moving-average-from-data-stream](https://github.com/AndreCarneiro00/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0643-maximum-average-subarray-i](https://github.com/AndreCarneiro00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1098-largest-unique-number](https://github.com/AndreCarneiro00/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AndreCarneiro00/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/AndreCarneiro00/LeetCode/tree/master/1391-counting-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AndreCarneiro00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AndreCarneiro00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
