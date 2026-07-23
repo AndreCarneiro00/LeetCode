@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/AndreCarneiro00/LeetCode/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/AndreCarneiro00/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2270-number-of-ways-to-split-array](https://github.com/AndreCarneiro00/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2540-minimum-common-value](https://github.com/AndreCarneiro00/LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AndreCarneiro00/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2270-number-of-ways-to-split-array](https://github.com/AndreCarneiro00/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
 | ------- |
